@@ -1,0 +1,14 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "Activate Django Virtual Environment",
+            "type": "shell",
+            "command": "C:\\Users\\Zwew\\Desktop\\myst\\myvenv\\Scripts\\activate.bat",
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            }
+        }
+    ]
+}
